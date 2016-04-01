@@ -1,0 +1,777 @@
+Send 192.168.1.1:80 09:41:58 : GET /h595/101 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:41:58 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:51:44 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="5bf18b3170014e6866b6ab1cb556abea", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:41:59 : GET /h595/101 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:41:59 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:51:44 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="5bf18b3170014e6866b6ab1cb556abea", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:07 : GET /gpio/1 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:07 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:51:52 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="92c715d4259a418cf96d665f0ec186d6", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:12 : GET /gpio/0 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:12 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:51:58 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="0087c1a2c4eddbfc4974c49b47e7f4cd", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:17 : GET /gpio/1 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:17 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:02 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="f039c0330cabdbd7d52c7506e0cb39d1", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:22 : GET /gpio/0 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:22 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:07 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="076d30d42c257055dd8754d2b2d02cb9", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:26 : GET /h595/131 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:26 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:11 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="689535d67f60fb2852d5a875e5608903", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:28 : GET /gpio/1 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:28 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:13 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="b9cec035b9d34afe6ec9fd3155966fb5", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:33 : GET /gpio/0 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:33 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:18 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="9cda1f61bac6d127768af90340971201", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:37 : GET /h595/131 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:37 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:22 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="2cea3be96ea262ff17f8c9b2d0224db5", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:40 : GET /h595/100 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:40 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:26 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="1ae502359432ef20f52f46888665926f", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:42:52 : GET /h595/110 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:42:52 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:37 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="4153f75a393e8ab085a667f572ca9842", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:00 : GET /h595/130 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:43:00 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:46 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="33059fd29082e42394402fc789878d2f", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:08 : GET /h595/151 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:43:08 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:52:54 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="25e8051464cd932c9d136b5af4ad3ea2", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:19 : GET /h595/151 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:43:19 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:04 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="894e263180e4a7f58f214c2179fa6747", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:43 : GET /gpio/1 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:43:43 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:28 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="faf56e5c681fefcc872078af0cd1b0cb", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:48 : GET /gpio/0 HTTP/1.1
+Host:192.168.1.1
+
+
+------------------------------------------------------------
+Resive 09:43:48 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:36 : 
+------------------------------------------------------------
+Resive 09:43:36 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:38 : 
+------------------------------------------------------------
+Resive 09:43:38 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:39 : 
+------------------------------------------------------------
+Resive 09:43:39 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:39 : 
+------------------------------------------------------------
+Resive 09:43:39 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:39 : 
+------------------------------------------------------------
+Resive 09:43:39 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:39 : 
+------------------------------------------------------------
+Resive 09:43:39 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:40 : 
+------------------------------------------------------------
+Resive 09:43:40 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:40 : 
+------------------------------------------------------------
+Resive 09:43:40 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:40 : 
+------------------------------------------------------------
+Resive 09:43:40 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:40 : 
+------------------------------------------------------------
+Resive 09:43:40 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:40 : 
+------------------------------------------------------------
+Resive 09:43:40 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:41 : 
+------------------------------------------------------------
+Resive 09:43:41 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:41 : 
+------------------------------------------------------------
+Resive 09:43:41 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:41 : 
+------------------------------------------------------------
+Resive 09:43:41 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:41 : 
+------------------------------------------------------------
+Resive 09:43:41 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
+Send 192.168.1.1:80 09:43:42 : 
+------------------------------------------------------------
+Resive 09:43:42 : HTTP/1.0 401 Unauthorized
+Server: antid
+Date: Mon Oct 17 04:53:33 2011
+WWW-Authenticate: Digest realm="KEENETIC LITE", qop="auth", nonce="15f6de6019dad606ba2d2ce7b4af03db", opaque="5ccc069c403ebaf9f0171e9517f40e41", algorithm="MD5", stale="FALSE"
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html;charset=UTF-8
+Content-Length: 5793
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+<title>ZyXEL KEENETIC LITE</title>
+<link rel="icon"          href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="shortcut icon" href="/i/keenetic/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel='stylesheet' type='text/css' href='/css/keenetic.css?=r2849'/>
+<!--[if gte IE 6]><link rel='stylesheet' type='text/css' href='/css/ie.css?=r2849'/><![endif]-->
+<!--[if lte IE ð­ËåÒ\!ý
+------------------------------------------------------------
